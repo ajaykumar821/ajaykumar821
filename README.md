@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100009718188919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ajay Kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/ajay__gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ajay Kumar" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/ajay-kumar-219b98200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Ajay Kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
