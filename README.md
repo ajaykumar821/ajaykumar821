@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ajaykumar821.io) -->
-[![MasterHead](https://www.istockphoto.com/photo/3d-text-of-java-gm870344898-145559371?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fjava-programmer&utm_term=java%20programmer%3A%3Asearch-explore-top-affiliate-outside-feed-x-v2%3Acontrol)]
+[![MasterHead](https://source.unplash.com/random)]
 
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
