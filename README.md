@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay" /> </p>
 
-- 🔭 I’m currently working on **Online food delivery Project**
+- 🔭 I’m currently working on ** ReactJs Project**
 
-- 🌱 I’m currently learning **RectJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **C, Java, HTML, CSS, JavaScript, Python**
 
