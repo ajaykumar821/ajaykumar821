@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Online food delivery Project**
 
-- 🌱 I’m currently learning **Python,Django**
+- 🌱 I’m currently learning **RectJs**
 
-- 💬 Ask me about **C,Java,HTML,CSS**
+- 💬 Ask me about **C, Java, HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **ajaykumar97598@gmail.com**
 
-- ⚡ Fun fact **I like Cat**
+- ⚡ Fun fact **Life is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
