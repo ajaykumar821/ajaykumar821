@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on ** MERN
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, JavaScript, ReactJs, Express Js, Node Js Python**
+- 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, JavaScript, ReactJs, Express Js, Node Js, Python**
 
 - 📫 How to reach me **ajaykumar97598@gmail.com**
 
