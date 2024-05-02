@@ -5,15 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay" /> </p>
 
-- 🔭 I’m currently working on ** ReactJs Project**
+- 🔭 I’m currently working on ** MERN
+- 🌱 I’m currently learning **React Native**
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 💬 Ask me about **C, Java, HTML, CSS, JavaScript, Python**
+- 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, JavaScript, ReactJs, Express Js, Node Js Python**
 
 - 📫 How to reach me **ajaykumar97598@gmail.com**
 
-- ⚡ Fun fact **Life is fun**
+- ⚡ Fun fact **How to centre a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
